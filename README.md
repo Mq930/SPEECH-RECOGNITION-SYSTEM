@@ -29,3 +29,4 @@ Beyond its technical implementation, this project highlights the transformative 
 
 In summary, this task showcases the power of combining advanced AI models like Whisper with user-friendly frameworks such as Gradio. Together, they create a bridge between human speech and digital understanding—turning voice into text with clarity, precision, and ease.
 # OUTPUT
+<img width="300" height="800" alt="Image" src="https://github.com/user-attachments/assets/a5dbaaaf-308c-4fa2-8440-d6bcfa3ba0fd" />
